@@ -1,8 +1,10 @@
 # Inventory-Management-System
 An Inventory Management System using Python3 which includes CRUD functionality.
 
-#Instructions
+**Instructions**
+
 1- Clone the repository using the following link  [Inventory Management System](https://github.com/abdulrehmanmangral/Inventory-Management-System.git) by adding **git clone**.
+
 2- There is a requirements.txt file. Download this file by using the following command
 ```bash
 pip install -r requirements.txt
@@ -29,5 +31,5 @@ python3 add_to_db.py
 ```
 8. Thanks.
 
-#Project Made By Abdul Rehman
+**Project Made By Abdul Rehman**
 
